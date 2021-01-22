@@ -1,2 +1,2 @@
 # tabs_smigla
-[DEMO LINK]()
+[DEMO LINK](https://mishtal-andrii.github.io/tabs_smigla/.)
